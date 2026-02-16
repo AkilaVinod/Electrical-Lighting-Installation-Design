@@ -13,4 +13,4 @@ Scope:
 - Single Line Diagrams created using AutoCAD Electrical
 
 Tools:
-AutoCAD Electrical | Excel | Manual Engineering Calculations
+EPLAN | Excel | Manual Engineering Calculations
